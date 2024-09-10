@@ -2,7 +2,7 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2024
- * This program print Hello World
+ * This program print Hello Arsen
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Arsen!')
